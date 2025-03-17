@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Binarne stevilek 1/1.0.0": {
+        "runtime": {
+          "Binarne stevilek 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Binarne stevilek 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
